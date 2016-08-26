@@ -1,6 +1,6 @@
 # Font-awesome_SASS-variables
 Simple SASS variables file for assign SASS variable to font awesome icons unicode.
-
+>Font-awesome_SASS-variables currently based on font-awesome v4.6.3
 
 ## Usage
 
